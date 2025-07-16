@@ -1,38 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Flexo Token Exchange
 
-## Getting Started
+## 📝 Project Description
 
-First, run the development server:
+**Flexo Token Exchange** is a decentralized application (dApp) built on the **Andromeda Testnet Network** using **AndromedaOS**. It allows users to seamlessly exchange **UANDR** tokens for **FTT (Flexo Test Token)** in a fast, secure, and user-friendly environment.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Leveraging the composability and power of the AndromedaOS ecosystem, this dApp showcases how decentralized finance (DeFi) experiences can be simplified and made accessible through embeddable smart contract modules and intuitive interfaces.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🎯 Project Vision
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Our vision is to create a lightweight, scalable, and secure decentralized token exchange that can evolve into a broader financial toolset on the Andromeda Network. We aim to:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* Empower users with non-custodial token swapping capabilities.
+* Showcase real-world utility of AndromedaOS's embeddables and smart modules.
+* Set the groundwork for future DeFi use cases within the Andromeda ecosystem.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🔮 Future Scope
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+In future iterations, Flexo Token Exchange plans to:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* Support multi-token swaps and cross-chain bridging.
+* Integrate liquidity pools for better price discovery and slippage control.
+* Implement user wallet analytics and transaction history dashboards.
+* Enable integration with additional AndromedaOS components like governance modules and smart NFT support.
+* Launch on Andromeda Mainnet post-testnet validation.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔗 Demo Link
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## Licensing
-
-[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
+Try out the live demo on the Andromeda Testnet: **[Flexo Token Exchange Demo](https://embeddables.testnet.andromedaprotocol.io/galileo-4/flexo-token-exchange)**
